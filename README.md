@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kate Callan
 
-<!--
-**katecallan/katecallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Colorado School of Mines (Class of 2026)
 
-Here are some ideas to get you started:
+I’m interested in systems programming, computer security, and
+privacy-preserving software. I enjoy building technically rigorous
+projects and thinking critically about the social impact of computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Unix Shell (C)** – restricted shell using POSIX process control  
+- **Clue-Style Board Game (Java)** – OOP design, file parsing, AI players  
+- **Privacy-Preserving Analytics Platform** – pseudonymous event logging in PHP
+
+## Coursework & Skills
+- Languages: C, C++, Java, Python, PHP
+- Topics: Operating Systems, Algorithms, Databases, Security, Privacy
+- Tools: Git, Linux, JUnit, PHPUnit
+
+## Contact
+- GitHub: [github.com/katecallan](https://github.com/katecallan)
+- Email: kate_callan@mines.edu
